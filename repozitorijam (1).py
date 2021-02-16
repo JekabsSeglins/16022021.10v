@@ -23,6 +23,7 @@ print(5**3)
 #10)SegliĆ²Ć° JĆ§kabs
 print("jekabs",8+9)
 print("jauns kods",3*4)
+print("kape ne?")
 #11)SerĆ¾ante Agate
 
 #12)VoiteĆ°onoks Aleksandrs
